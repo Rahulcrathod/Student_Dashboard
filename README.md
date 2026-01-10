@@ -14,6 +14,8 @@ This project is a real-time data-driven dashboard built using Python, Dash, Pand
 The dashboard provides interactive controls that enable users to filter results, change visualization styles, and customize the appearance of the interface. It supports multiple data-visualization formats to help users analyze student scores from different perspectives.
 
 # Screen Shots
+<img width="979" height="485" alt="image" src="https://github.com/user-attachments/assets/9b254ba0-d035-45be-8a88-2d41ed140173" />
+
 <img width="1167" height="450" alt="newplot (1)" src="https://github.com/user-attachments/assets/ff21c2b6-0599-4256-9c19-3720bae3b729" />
 
 <img width="1167" height="450" alt="newplot (7)" src="https://github.com/user-attachments/assets/4d240c2c-accf-4fc8-99ff-703acead856e" />
